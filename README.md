@@ -1,2 +1,0 @@
-ligerui-python-demo
-===================
